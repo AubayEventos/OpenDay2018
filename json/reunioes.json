@@ -1,0 +1,39 @@
+[
+  {
+    "id": "5f75599d-90c6-4b9e-82e3-89ac77162381",
+    "nome": "Sala 1",
+    "piso": "0f371ede-b6d3-45e0-a21a-a19d99aeb9df",
+    "videoconferencia": true,
+    "nocupantes": 13,
+    "disponibilidade": [
+        {"segunda": ["1000","1800"]}, 
+        {"terça":   ["1200","1500"]},
+        {"quinta":  ["1300","1700"]},
+        {"sexta":   ["1300","1400"]}
+    ]
+  },
+  {
+    "id": "a6960bb4-99b7-430a-9732-1f28aab2320f",
+    "nome": "Sala 2",
+    "piso": "f668a8a9-bdf5-43b8-9f34-67f93c3d27b0",
+    "videoconferencia": false,
+    "nocupantes": 4,
+    "disponibilidade": [
+        {"segunda": ["1000","1800"]}, 
+        {"terça":   ["1200","1500"]},
+        {"sexta":   ["1300","1400"]}
+    ]
+  }, 
+  {
+    "id": "70438844-c446-4732-a8b6-6e4dfe838ce4",
+    "nome": "Sala Principal",
+    "piso": "d038902e-6827-47f9-a34b-92d729e80b35",
+    "videoconferencia": true,
+    "nocupantes": 5,
+    "disponibilidade": [
+        {"segunda": ["0900","1800"]}, 
+        {"quarta":  ["1400","1600"]},
+        {"quinta":  ["0900","1500"]}
+    ]
+  }
+]
