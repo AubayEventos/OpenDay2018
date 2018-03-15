@@ -5,7 +5,7 @@
 Deverá ser feita uma aplicação de consola que nos permita fazer a gestão das salas. 
 Esta deverá ter um menu que permita ao utilizador operar nela.
 
-![appConsole](OpenDay2018/images/menuprincipal.png)
+![appConsole](https://github.com/AubayEventos/OpenDay2018/blob/master/images/menuprincipal.png)
 
 ## Tipos de Dados 
 ###### Sala de Entrevista: Representa uma sala onde são feitas entrevistas
